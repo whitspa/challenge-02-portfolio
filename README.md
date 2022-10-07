@@ -4,7 +4,10 @@ Start building your portfolio.
 I utilized HTML and CSS to build this website. You'll find comments in both files,
 but the comments are more detailed in the CSS file.
 Here is the link to the deployed application:
+https://whitspa.github.io/challenge-02-portfolio/#Resume
 
+And here is the link to the repository:
+https://github.com/whitspa/challenge-02-portfolio.git
 
 My github repository is published under the MIT license
 and I can be reached via email at: whitspa64@gmail.com
